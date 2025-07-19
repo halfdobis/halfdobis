@@ -1,6 +1,6 @@
 <h1>👋 Hey there, I'm Adaobi! 🚀</h1>
 
-- 🚀 Currently powering up at MunkaiArt and BitNorm,
+- 🚀 Currently powering up at MunkaiArt and Izesan,
 - 🌱 Learning Node.js and leveling up React.js and Next.js,
 - 🤝 Open to teaming up on exciting frontend projects,
 - 🌟 Check out my portfolio: <https://adaobi.vercel.app>
