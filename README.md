@@ -3,7 +3,7 @@
 - 🚀 Currently powering up at MunkaiArt, Sapphic Effect and Izesan,
 - 🌱 Learning Node.js and leveling up React.js and Next.js,
 - 🤝 Open to teaming up on exciting frontend projects,
-- 🌟 Check out my portfolio: <https://adaobi.vercel.app>
+- 🌟 Check out my portfolio: <https://adaobi.munkai.art>
 - 💬 Chat with me about coding and unleashing creativity,
 - 📫 📧 Reach me at <misdobis@gmail.com>,
 - ⚡ 🎵 Fun fact: My code dances to the rhythm of background music! 🎶✨
